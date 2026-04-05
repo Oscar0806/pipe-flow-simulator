@@ -7,7 +7,7 @@ Interactive pipe flow analysis using Darcy-Weisbach, Colebrook-White,
 and Moody chart. 5 fluids, 7 pipe materials, 7 fitting types.
  
 ## 🔗 Live Demo
-**[Open Simulator](https://your-url.streamlit.app)**
+**[Open Simulator](https://pipe-flow-simulator-8xwp8afjvnt2fxxqguq8mt.streamlit.app/)**
  
 ## Features
 - Colebrook-White implicit friction factor solver
